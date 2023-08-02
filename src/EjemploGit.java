@@ -9,6 +9,8 @@ public class EjemploGit {
 				System.out.println(frase);
 				
 		frase = "Pero hay algo que no puede comprar... un dinosaurio";
+		
+		System.out.println(frase);
 	}
 
 }
