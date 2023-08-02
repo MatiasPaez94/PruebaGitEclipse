@@ -7,6 +7,8 @@ public class EjemploGit {
 		String frase = "Hable más fuerte que tengo una toalla";
 		
 				System.out.println(frase);
+				
+		frase = "Pero hay algo que no puede comprar... un dinosaurio";
 	}
 
 }
